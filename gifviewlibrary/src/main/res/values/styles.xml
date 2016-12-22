@@ -1,0 +1,6 @@
+<resources>
+
+    //For com.runtai.gifviewlibrary.GifView Declaration
+    <style name="Widget.GifView" parent="@android:style/Widget" />
+
+</resources>
